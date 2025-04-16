@@ -1,0 +1,6500 @@
+fileFormatVersion: 2
+guid: 5f73d7bc5217bc3429fb244b325547f2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638354673021772626
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Gold & Silver Hearts v1.2_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 4
+      width: 90
+      height: 18
+    spriteID: afd04618397a4b84584b1ad8069a7097
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 4
+      width: 90
+      height: 18
+    spriteID: e6ae5c5c0fc63a04eae9ae294839851f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 4
+      width: 90
+      height: 18
+    spriteID: c5e6202dba41a2448a32ebe5058547f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 500
+      y: 4
+      width: 90
+      height: 18
+    spriteID: e579b216211e98f4bb1a1965b00829ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 500, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 598
+      y: 4
+      width: 90
+      height: 18
+    spriteID: 1419ff470da8a554eaa918acc0927c90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 598, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 696
+      y: 4
+      width: 90
+      height: 18
+    spriteID: 34470d8583f2a884996c262cf02dc2d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 696, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 794
+      y: 4
+      width: 90
+      height: 18
+    spriteID: 2cf67bbcb7c9e034684a9ef992723756
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 794, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 4
+      width: 90
+      height: 18
+    spriteID: 37e2048625f1b224488a16ac10acffb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 30
+      width: 90
+      height: 18
+    spriteID: c40704951a563f743aa592cd36d9962f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 30
+      width: 90
+      height: 18
+    spriteID: f4ab2dbcaf78c3d4d9cfff9d29360552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 30
+      width: 90
+      height: 18
+    spriteID: a9ca474f00246e545b348f8286b4dcab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 30
+      width: 90
+      height: 18
+    spriteID: f0804630195a1814688e4ee8ab91e607
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 30
+      width: 90
+      height: 18
+    spriteID: 4472dac2122ef9a4fb38ac006b0b3d6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 30
+      width: 90
+      height: 18
+    spriteID: dc2c910c85ac02d41acb292c949e09e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 30
+      width: 90
+      height: 18
+    spriteID: 7d63dc83951e49449a5a7b009c1f4a3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 30
+      width: 90
+      height: 18
+    spriteID: f988d790038e3a1468695c50d29f29b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 30
+      width: 90
+      height: 18
+    spriteID: 3313f86f95da02e4fbfb88da3d9fb047
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 30
+      width: 90
+      height: 18
+    spriteID: 55a82b782d62e3d42a484fa4ca868963
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 56
+      width: 90
+      height: 18
+    spriteID: f37a96eff9393bd4bb758ec5651afc72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 56
+      width: 90
+      height: 18
+    spriteID: efa533faf6b723446bf76f5bae160a4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 56
+      width: 90
+      height: 18
+    spriteID: 8a732bc80118a6947ba74c332e1b444d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 56
+      width: 90
+      height: 18
+    spriteID: 19c4d5ba427a20943a891d44ca8501d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 56
+      width: 90
+      height: 18
+    spriteID: 56d4f5d6c74abb74289185a6e57995e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 56
+      width: 90
+      height: 18
+    spriteID: 7c25904dcfc0caa42b833ee55b6a5d38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 56
+      width: 90
+      height: 18
+    spriteID: b02df46cbe3c9cf4e8f1e9780d5756fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 56
+      width: 90
+      height: 18
+    spriteID: 6132e4c6979e6404592689a00132aa08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 56
+      width: 90
+      height: 18
+    spriteID: fd1b7583920b304479f2389026ca9d24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 56
+      width: 90
+      height: 18
+    spriteID: 72e7a740b0b133048b3b6500dd163b39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 90
+      height: 18
+    spriteID: b4417f5441de80f4f97d865fe2ccccf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 82
+      width: 90
+      height: 18
+    spriteID: 4062f070ec03457409eb6c8be5d25eff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 82
+      width: 90
+      height: 18
+    spriteID: 50e0cb428af8bc74290aa824b03320fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 82
+      width: 90
+      height: 18
+    spriteID: 62a481c949905bb4cbfba791b064db52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 82
+      width: 90
+      height: 18
+    spriteID: 664af57ce6d1c904da924ca1a4a25772
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 82
+      width: 90
+      height: 18
+    spriteID: db3df08c2dd3279408b41e92b814f8d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 82
+      width: 90
+      height: 18
+    spriteID: a4dcb5e4092bd0445965a1315948c298
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 82
+      width: 90
+      height: 18
+    spriteID: e85a555d47759ee43ada1fbe08043e37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 82
+      width: 90
+      height: 18
+    spriteID: 334406261c9ec37449dd348a9c4d128f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 82
+      width: 90
+      height: 18
+    spriteID: abbdcaf8cb8c1f14e8caea3e1d6639e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 108
+      width: 90
+      height: 18
+    spriteID: 5e3aab3301f706648b20462fa9de27f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 108
+      width: 90
+      height: 18
+    spriteID: 07ef8628620afda4e9ea3fed856d22e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 108
+      width: 90
+      height: 18
+    spriteID: eaff131590b0bcd40b111b18403ef6b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 108
+      width: 90
+      height: 18
+    spriteID: b8ff01bc1d4ff4540af2b79ec5195c01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 108
+      width: 90
+      height: 18
+    spriteID: 6905867705b80f34cb077e92ee817e41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 108
+      width: 90
+      height: 18
+    spriteID: 0181fc546913e4542b6d67956b12baf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 108
+      width: 90
+      height: 18
+    spriteID: dcfea66096a6a8e4fa113bdbdda4c0ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 108
+      width: 90
+      height: 18
+    spriteID: 648cc5281e072964ca171f11a77d4ff0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 108
+      width: 90
+      height: 18
+    spriteID: 40c45e7f00637064b9fb2913f06f5c15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 108
+      width: 90
+      height: 18
+    spriteID: af3ff3b22d66a4d4d9f6b3bffe42dc66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 7506b53893a675f439558ce22c9c1a15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 6207c65898943614995ddce07ba17a7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 7512835413b27c744a0c6eb62a13cbe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 134
+      width: 90
+      height: 18
+    spriteID: f23107a69db8d6641b4b44be04bfbd45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_61
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 06c2ca02caab356439c5e51b0c3c83c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 0c8d974cbf151ca44a3ef508f060ec00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 4369d516d581bb94e8ef88f913a984a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_64
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 134
+      width: 90
+      height: 18
+    spriteID: ef07e7918d0b37840af6b2de085cffb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 134
+      width: 90
+      height: 18
+    spriteID: 3aca6b2b6f73e3c458a72d54d9de446e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 134
+      width: 90
+      height: 18
+    spriteID: a55cda78db0f3f944bcc62256cc14172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 90
+      height: 18
+    spriteID: ba2cc9af3f8a05143b86ad7e2f0dfbab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_68
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 255cda84c06afc848accfade75b65a33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 0df60b5461dd5ff41835e9751d26d852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_75
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 7e173f57f1ff2254b9e25ba93124e738
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_76
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 991bd9eb71695ba408d9fc989e2ccd7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_77
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 160
+      width: 90
+      height: 18
+    spriteID: dcbe9670dff7b4d46a415a6d616afb59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_78
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 07892e694aec4c147b8fb4957064dd8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_79
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 8b4c676bc6fbed84f91537d406ab1c7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_80
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 160
+      width: 90
+      height: 18
+    spriteID: 99b07731aee06cc47be5c9a27e4900df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 160
+      width: 90
+      height: 18
+    spriteID: cd252f8c35b934c44b57991a03f24113
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 186
+      width: 90
+      height: 18
+    spriteID: 864bdf1436376e941b3770eeb4650ee6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_83
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 186
+      width: 90
+      height: 18
+    spriteID: 03f034f6f47428f459c4985020dc5be7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_84
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 186
+      width: 90
+      height: 18
+    spriteID: e7390e743dfd947468f5f68f05260acc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_85
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 186
+      width: 90
+      height: 18
+    spriteID: 8f434bd510c27ee4a88e1d277bebdbfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_86
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 186
+      width: 90
+      height: 18
+    spriteID: 54e7ae80885adee4fbd06646b08212db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_87
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 186
+      width: 90
+      height: 18
+    spriteID: 35eeae0bc7451e94080d18ce30646bc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_88
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 186
+      width: 90
+      height: 18
+    spriteID: da7c085421a137b479529e24a107990f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_89
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 186
+      width: 90
+      height: 18
+    spriteID: a7a854e34c3a01341a755250124c14c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_95
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 186
+      width: 90
+      height: 18
+    spriteID: cf99a5ef05e0b9140a519d304f5681bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_96
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 186
+      width: 90
+      height: 18
+    spriteID: 0f6d388231c8e464db21325f79b5d661
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 186}
+  - name: Gold & Silver Hearts v1.2_Frame_97
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 90
+      height: 18
+    spriteID: b6f888260affd254fa2f57127ee9504d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_98
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 212
+      width: 90
+      height: 18
+    spriteID: 8312ca085ef3b4a4a8fae23fa131e854
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_99
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 212
+      width: 90
+      height: 18
+    spriteID: 69b524a3defd7e04ab298b6d3fcae716
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_100
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 212
+      width: 90
+      height: 18
+    spriteID: 919477da4c3dc9e4a8ebe534f97daf4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_101
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 212
+      width: 90
+      height: 18
+    spriteID: d5f5e1ae0e9d4ca47a177832389206f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_102
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 212
+      width: 90
+      height: 18
+    spriteID: b9f13c258206640419a852efc4e0d0c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_103
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 212
+      width: 90
+      height: 18
+    spriteID: ce2bb1fd934ba6b4f9d000f4042c8ea4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_104
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 212
+      width: 90
+      height: 18
+    spriteID: 1a83c3658a580364ead3a43b3079a16e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_105
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 212
+      width: 90
+      height: 18
+    spriteID: 708a4b6d0988ec24a85a2b155b21090a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_106
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 212
+      width: 90
+      height: 18
+    spriteID: 8d4c4f4795a448b419652bcd58232711
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_107
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 238
+      width: 90
+      height: 18
+    spriteID: 70dfb9573f9d43b458a582bb30bb008f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_108
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 238
+      width: 90
+      height: 18
+    spriteID: 2b0cf102866cd7c45b3255cb28ebf217
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_114
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 238
+      width: 90
+      height: 18
+    spriteID: 10cc2610921a05d48bf3c9177fedfc0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_115
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 238
+      width: 90
+      height: 18
+    spriteID: d07884d98934da74fb10f27bf6ff5743
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_116
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 238
+      width: 90
+      height: 18
+    spriteID: 7f3c38307e5a2e948918a9e6a723e93e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_117
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 238
+      width: 90
+      height: 18
+    spriteID: a7cc921cc16a93245be0b55c339625f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_118
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 238
+      width: 90
+      height: 18
+    spriteID: 09f98c17ffb9c2845a450bcaab9960f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_119
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 238
+      width: 90
+      height: 18
+    spriteID: 4bb0960a6563f8a4f9e5e583704cc2cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_120
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 238
+      width: 90
+      height: 18
+    spriteID: a953c8aa2f03f6040addfad689fc8fbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_121
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 238
+      width: 90
+      height: 18
+    spriteID: a4de41a00ac0b05409b6193c1c09e183
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_122
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 264
+      width: 90
+      height: 18
+    spriteID: f549110982bdb184197b8638cf17c21a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_123
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 264
+      width: 90
+      height: 18
+    spriteID: fa0550295a3c6a648a2e9743801effac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_124
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 264
+      width: 90
+      height: 18
+    spriteID: bf3c68e8488ea0a4badfc8217d460491
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_125
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 264
+      width: 90
+      height: 18
+    spriteID: 4d670dc98ebb7704389104ecad55d49d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_131
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 264
+      width: 90
+      height: 18
+    spriteID: ccae0d505839146458fa1c6fd03a0462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_132
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 264
+      width: 90
+      height: 18
+    spriteID: de4c20d57d0611e4f841b19bb6039a6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_133
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 264
+      width: 90
+      height: 18
+    spriteID: 05ea701d16f4b694d83af1c8b8693275
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_134
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 264
+      width: 90
+      height: 18
+    spriteID: fd9a6296f087c734e80b456f718182ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_135
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 264
+      width: 90
+      height: 18
+    spriteID: 8a7b68bb2ab5ac9438e127aad07492d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_136
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 264
+      width: 90
+      height: 18
+    spriteID: 6316a4aff7e4114409b6b9d2583bd161
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_137
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 71a78e931006c9b4dbf7204938c83604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_138
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 9885438a9ddc5a445a20ed881b4b2b2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_139
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 290
+      width: 90
+      height: 18
+    spriteID: d6ef2b6bc65a1eb4097e0c432dd8cba2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_140
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 6abb775b372cb7b499f5aa42fee3489a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_146
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 0703c271deb7b8149bbab10d8efe3185
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_147
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 8011ebff0d5d00d4c9d407bbb993e456
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_148
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 406cfae04ab745d49ba569d8c900b7ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_149
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 0fe994f0294918045ae7d81cc1032137
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_150
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 208fc61bbcc52dd408ea6f8e78b0df41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_151
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 290
+      width: 90
+      height: 18
+    spriteID: 192bdc75ae10681429d9a7a7a06f1ff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_152
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 316
+      width: 90
+      height: 18
+    spriteID: ee6ca5dcbd7dea2468445bdf625a28f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_153
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 316
+      width: 90
+      height: 18
+    spriteID: c9d555fe160615b4d9fb598c1c9d9a50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_159
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 316
+      width: 90
+      height: 18
+    spriteID: f6f1a59fced4a8a49a6dd8b361ed63c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_160
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 316
+      width: 90
+      height: 18
+    spriteID: 7211d453bc8f8ff408141980c74fae50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_161
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 316
+      width: 90
+      height: 18
+    spriteID: 9e9997335f8df044cb069a4b50323ca1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_162
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 316
+      width: 90
+      height: 18
+    spriteID: 9d1baec653a8a90439b71fa5243d5e28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_163
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 316
+      width: 90
+      height: 18
+    spriteID: d45882afdcf4bb248a237f7edb53815c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_164
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 316
+      width: 90
+      height: 18
+    spriteID: 63f09b7a6a0c4bf4cb5719a6ad6ea920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_170
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 316
+      width: 90
+      height: 18
+    spriteID: 1ae5f071badf9dd4091eb647140ed10b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_171
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 316
+      width: 90
+      height: 18
+    spriteID: d34c04df2ecd07040afa341ecac0b335
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 316}
+  - name: Gold & Silver Hearts v1.2_Frame_172
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 90
+      height: 18
+    spriteID: c77b4122528975849a706641a519bf3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_173
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 342
+      width: 90
+      height: 18
+    spriteID: fa11eabd697769f458983a047a623655
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_179
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 4706d9b6ce29cfe479a98f7e90ccf85d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_180
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 342
+      width: 90
+      height: 18
+    spriteID: b07df50ddc50fab4dbbb8f47c577d7a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_181
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 25da16c14626d764e933a32b526a72c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_182
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 4e1e4dd03c4b0d54ea51012a42e8cfd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_195
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 498
+      width: 80
+      height: 13
+    spriteID: ab2a3706429805d43b913852d4733ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_23
+    originalName: 
+    pivot: {x: 0.4945055, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 4
+      width: 91
+      height: 18
+    spriteID: 5c0f5fb0a9ceb9e4aa0e7e2c49c36fe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_24
+    originalName: 
+    pivot: {x: 0.47368422, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 95
+      height: 18
+    spriteID: aa248b088323a0c468c25d6ae002ec62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 4344241c02c45524a90f285c5b5063d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 41295204f73ff9948997cc4fee2e5a3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 84d652b1c322b8945bdd7bb2b7ef83f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 342
+      width: 90
+      height: 18
+    spriteID: 8151625be69316948b655e43729836af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 342}
+  - name: Gold & Silver Hearts v1.2_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 4fb3c913862462f4ba9c40e74d713d3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 4b5c1a9b771608d409f4d80837fe7351
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 056c03a99d8b4ab49a1849c0e97cbb64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 330b89e3736b8cb408402febd3b7de88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 368
+      width: 90
+      height: 18
+    spriteID: d123df3723745eb46bbffb56be6850d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 368
+      width: 90
+      height: 18
+    spriteID: deaf142625bf0204f95c198464f37d24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 13dfc1f4574deae4288bb6548dd2ceca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 368
+      width: 90
+      height: 18
+    spriteID: efc7ef1ee78c97e41bacbb942c574be2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_90
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 40c3f70100337674db67cc96f15fa980
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_91
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 368
+      width: 90
+      height: 18
+    spriteID: 56cd4f9cdbd7da645a190d7defcd750f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 368}
+  - name: Gold & Silver Hearts v1.2_Frame_92
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 5be3ca44dc384dd46807317da6d3cb87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_93
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 26eada48d84fe634f82e5e37654f93a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_94
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 41eb007ff38420e40b9f49c3a0c12c3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_109
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 493bac11a0770a447b89264f8b21619e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_110
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 394
+      width: 90
+      height: 18
+    spriteID: ee517aa6fcde85144bf916f06f177ccd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_111
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 394
+      width: 90
+      height: 18
+    spriteID: fc77d69c863fe9943a9c657605717432
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_112
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 068bd48bfeca37d418dbc7b22e9f5b23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_113
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 1568e37564ebcfd47b372dfd9e492aa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_126
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 416f7d373b043924d87dc5af520ad3cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_127
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 394
+      width: 90
+      height: 18
+    spriteID: 78bd2584ad7746245b3fc74698fdc899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 394}
+  - name: Gold & Silver Hearts v1.2_Frame_128
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 81b38ace6c203d14085519f473e37495
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_129
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 7035451b330ec374c8630b3a0e430306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_130
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 420
+      width: 90
+      height: 18
+    spriteID: b87ba1f8c59b65642b44eac2a5578078
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_141
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 55f8dc0d1dea4a740947edf0780790e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_142
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 1d40342679b6c634d8879d209ffa3254
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_143
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 128a1c683a5aae041ab747dab5f3d395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_144
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 420
+      width: 90
+      height: 18
+    spriteID: c4d3699087f6e064285503eaab99a5e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_145
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 8046c381f667e244997e2b6f0cd1dc83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_154
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 25a08087a0e36d24595b31746d4a6f9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_155
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 420
+      width: 90
+      height: 18
+    spriteID: 4e8e6754221612a47972c5c27fa8c79e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 420}
+  - name: Gold & Silver Hearts v1.2_Frame_156
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 446
+      width: 90
+      height: 18
+    spriteID: b296d298cb31de749ac81c77362c04bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_157
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 446
+      width: 90
+      height: 18
+    spriteID: 409bc394b66755c448c3c900187a86d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_158
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 446
+      width: 90
+      height: 18
+    spriteID: 68a4ab89b6908264aad87fe7159389e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_165
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 446
+      width: 90
+      height: 18
+    spriteID: e8b38634fbf05214cad45dca3501a420
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_166
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 446
+      width: 90
+      height: 18
+    spriteID: cd9c8a54493f16d4b805f78db48b9374
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_167
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 446
+      width: 90
+      height: 18
+    spriteID: 78337562925962b4ab2709223f61832b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_168
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 446
+      width: 90
+      height: 18
+    spriteID: a9810a1c4920ec94b905fb4a285f24e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_169
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 446
+      width: 90
+      height: 18
+    spriteID: 9a2ce8eef8c1923478f455e2fb9c4ddb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_174
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 446
+      width: 90
+      height: 18
+    spriteID: a9bbdb587e2613644be1744eb005ca75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_175
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 446
+      width: 90
+      height: 18
+    spriteID: 73f9503b934977a4ba6f7b2be63e6bb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 446}
+  - name: Gold & Silver Hearts v1.2_Frame_176
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 5327c4d027b463548b680cfe00fc5a67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_177
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 331f47f65149ae34d89012580ba45598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_178
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 651da515d6de7b34fbe99432e65cba01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_183
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 50fc6728c5afd034cb6a9b78fff8098e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_184
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 472
+      width: 90
+      height: 18
+    spriteID: e0bb23ca1c50c7c49afb9a8315000453
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_185
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 512bac62ede26994881c3d3b627c2a22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_186
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 592
+      y: 472
+      width: 90
+      height: 18
+    spriteID: eb7d0d4961c721a459ae2a28f1b04dc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_187
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 0b2e516062ebda54d9c8e4d55b5d5104
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_188
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 8cc993f6ee6331f4ead125446abab0c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_189
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 472
+      width: 90
+      height: 18
+    spriteID: 51f50d4ec9a4297448ff04c561f9493a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 886, y: 472}
+  - name: Gold & Silver Hearts v1.2_Frame_190
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 498
+      width: 90
+      height: 18
+    spriteID: 64819c0b804917943952b566c4863dee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_191
+    originalName: 
+    pivot: {x: 0.5, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 498
+      width: 90
+      height: 18
+    spriteID: 259ba56e378520d4885a67b572015b25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_192
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 498
+      width: 80
+      height: 13
+    spriteID: dcc36b02412f87c4e9c082a086c4d3f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_196
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 376
+      y: 498
+      width: 80
+      height: 13
+    spriteID: 05e1b5cf5ab683148b799ffe39729863
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 376, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_197
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 464
+      y: 498
+      width: 80
+      height: 13
+    spriteID: 31b863706ed9fb648b81e7572f12ba9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 464, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_198
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 498
+      width: 80
+      height: 13
+    spriteID: 070e5119dbb2a924a97a54e84f92dc79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 552, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_199
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 640
+      y: 498
+      width: 80
+      height: 13
+    spriteID: 9b44a7e2570f9304bba8f821d17fa700
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 640, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_200
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 728
+      y: 498
+      width: 80
+      height: 13
+    spriteID: 5bed2629a485a0343885ed5380e3ca60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 728, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_201
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 816
+      y: 498
+      width: 80
+      height: 13
+    spriteID: d02bb643e413dca47a1f7d94cd7c10f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 816, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_202
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 904
+      y: 498
+      width: 80
+      height: 13
+    spriteID: 7eba9480b936c3f459fa8dc89b27f43c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 904, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_203
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 80
+      height: 13
+    spriteID: a0544ce971523a54ca8685dbf0ea7d56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_204
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 524
+      width: 80
+      height: 13
+    spriteID: dc3f4462543c6f441a666598602e2e9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_205
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 524
+      width: 80
+      height: 13
+    spriteID: 9e3f209234e8a4349a8cd74aebd60023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_206
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 524
+      width: 80
+      height: 13
+    spriteID: 92c77e0e53a055947adc41075bb3e41f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_207
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 524
+      width: 80
+      height: 13
+    spriteID: 6e179544217b52847a4cf7fab1ba4da8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_208
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 524
+      width: 80
+      height: 13
+    spriteID: 12872a6efc31bc74fbe1ef909da60bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_209
+    originalName: 
+    pivot: {x: 0.4375, y: -5.615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 524
+      width: 80
+      height: 13
+    spriteID: 3896b02777245a142ba35081a63609c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 524}
+  - name: Gold & Silver Hearts v1.2_Frame_210
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 992
+      y: 498
+      width: 21
+      height: 18
+    spriteID: 53f2d0481f44099409e50ab030993610
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 992, y: 498}
+  - name: Gold & Silver Hearts v1.2_Frame_212
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 212
+      width: 19
+      height: 17
+    spriteID: fd806ce95df79ed44957339bcd694342
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_213
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 264
+      width: 13
+      height: 18
+    spriteID: 7b311cc05a3ea4e4aa49b1caba44f5d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_214
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 290
+      width: 11
+      height: 16
+    spriteID: ff2ee832d6617c240b932eba708340f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_215
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1011
+      y: 212
+      width: 9
+      height: 16
+    spriteID: 5985fd3352727384bbf4fcb3e509121d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1011, y: 212}
+  - name: Gold & Silver Hearts v1.2_Frame_216
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1013
+      y: 30
+      width: 7
+      height: 16
+    spriteID: 65683df35fe28be449c94bb89eb9ab2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1013, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_217
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1011
+      y: 238
+      width: 9
+      height: 16
+    spriteID: 0be98ab807ea5fb4c8d3d91f14f679bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1011, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_218
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1003
+      y: 290
+      width: 11
+      height: 16
+    spriteID: 0e3e057993f469647ac2c4480e85c397
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1003, y: 290}
+  - name: Gold & Silver Hearts v1.2_Frame_219
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1005
+      y: 264
+      width: 13
+      height: 18
+    spriteID: b2671e4ec5f95b54a93336af3a8bcea9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1005, y: 264}
+  - name: Gold & Silver Hearts v1.2_Frame_220
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 238
+      width: 19
+      height: 17
+    spriteID: 6c2c8d25fb5a29a479da0c33a3cd6579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 238}
+  - name: Gold & Silver Hearts v1.2_Frame_221
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 990
+      y: 4
+      width: 21
+      height: 18
+    spriteID: 868ad77f2c62c744fb24d815de5e56cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 990, y: 4}
+  - name: Gold & Silver Hearts v1.2_Frame_223
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 30
+      width: 21
+      height: 18
+    spriteID: e0752944bd6633a46af830fa282e36ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 30}
+  - name: Gold & Silver Hearts v1.2_Frame_224
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 56
+      width: 21
+      height: 18
+    spriteID: 42057bfdab500e049a7e21bb0a222b0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 56}
+  - name: Gold & Silver Hearts v1.2_Frame_225
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 82
+      width: 21
+      height: 18
+    spriteID: c0a8c9f4f75c0824884918798ae53c4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 82}
+  - name: Gold & Silver Hearts v1.2_Frame_226
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 108
+      width: 21
+      height: 18
+    spriteID: 14b63ea2e3b215d44b5ef0f709b99200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 108}
+  - name: Gold & Silver Hearts v1.2_Frame_227
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 134
+      width: 21
+      height: 18
+    spriteID: 8a29ef839298d684a88831991488c1bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 134}
+  - name: Gold & Silver Hearts v1.2_Frame_228
+    originalName: 
+    pivot: {x: 0.5238095, y: -3.9444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 160
+      width: 21
+      height: 18
+    spriteID: 974478afd1b9ba341aafcba83bac786e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 160}
+  - name: Gold & Silver Hearts v1.2_Frame_229
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 984
+      y: 186
+      width: 21
+      height: 18
+    spriteID: 0bd1bf7f3983dfc48957bd4c23f08fcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 984, y: 186}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1507422873
+    name: Gold & Silver Hearts v1.2
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Gold & Silver Hearts v1.2_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: afd04618397a4b84584b1ad8069a7097
+    - name: Gold & Silver Hearts v1.2_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: e6ae5c5c0fc63a04eae9ae294839851f
+    - name: Gold & Silver Hearts v1.2_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: c5e6202dba41a2448a32ebe5058547f8
+    - name: Gold & Silver Hearts v1.2_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: e579b216211e98f4bb1a1965b00829ef
+    - name: Gold & Silver Hearts v1.2_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 1419ff470da8a554eaa918acc0927c90
+    - name: Gold & Silver Hearts v1.2_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 34470d8583f2a884996c262cf02dc2d6
+    - name: Gold & Silver Hearts v1.2_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 2cf67bbcb7c9e034684a9ef992723756
+    - name: Gold & Silver Hearts v1.2_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 37e2048625f1b224488a16ac10acffb8
+    - name: Gold & Silver Hearts v1.2_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: c40704951a563f743aa592cd36d9962f
+    - name: Gold & Silver Hearts v1.2_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f4ab2dbcaf78c3d4d9cfff9d29360552
+    - name: Gold & Silver Hearts v1.2_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a9ca474f00246e545b348f8286b4dcab
+    - name: Gold & Silver Hearts v1.2_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f0804630195a1814688e4ee8ab91e607
+    - name: Gold & Silver Hearts v1.2_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4472dac2122ef9a4fb38ac006b0b3d6f
+    - name: Gold & Silver Hearts v1.2_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: dc2c910c85ac02d41acb292c949e09e8
+    - name: Gold & Silver Hearts v1.2_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7d63dc83951e49449a5a7b009c1f4a3d
+    - name: Gold & Silver Hearts v1.2_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f988d790038e3a1468695c50d29f29b7
+    - name: Gold & Silver Hearts v1.2_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 3313f86f95da02e4fbfb88da3d9fb047
+    - name: Gold & Silver Hearts v1.2_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 55a82b782d62e3d42a484fa4ca868963
+    - name: Gold & Silver Hearts v1.2_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f37a96eff9393bd4bb758ec5651afc72
+    - name: Gold & Silver Hearts v1.2_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: efa533faf6b723446bf76f5bae160a4d
+    - name: Gold & Silver Hearts v1.2_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8a732bc80118a6947ba74c332e1b444d
+    - name: Gold & Silver Hearts v1.2_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 19c4d5ba427a20943a891d44ca8501d5
+    - name: Gold & Silver Hearts v1.2_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 56d4f5d6c74abb74289185a6e57995e5
+    - name: Gold & Silver Hearts v1.2_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7c25904dcfc0caa42b833ee55b6a5d38
+    - name: Gold & Silver Hearts v1.2_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b02df46cbe3c9cf4e8f1e9780d5756fa
+    - name: Gold & Silver Hearts v1.2_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 6132e4c6979e6404592689a00132aa08
+    - name: Gold & Silver Hearts v1.2_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: fd1b7583920b304479f2389026ca9d24
+    - name: Gold & Silver Hearts v1.2_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 72e7a740b0b133048b3b6500dd163b39
+    - name: Gold & Silver Hearts v1.2_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b4417f5441de80f4f97d865fe2ccccf0
+    - name: Gold & Silver Hearts v1.2_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4062f070ec03457409eb6c8be5d25eff
+    - name: Gold & Silver Hearts v1.2_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 50e0cb428af8bc74290aa824b03320fd
+    - name: Gold & Silver Hearts v1.2_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 62a481c949905bb4cbfba791b064db52
+    - name: Gold & Silver Hearts v1.2_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 664af57ce6d1c904da924ca1a4a25772
+    - name: Gold & Silver Hearts v1.2_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: db3df08c2dd3279408b41e92b814f8d7
+    - name: Gold & Silver Hearts v1.2_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a4dcb5e4092bd0445965a1315948c298
+    - name: Gold & Silver Hearts v1.2_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: e85a555d47759ee43ada1fbe08043e37
+    - name: Gold & Silver Hearts v1.2_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 334406261c9ec37449dd348a9c4d128f
+    - name: Gold & Silver Hearts v1.2_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: abbdcaf8cb8c1f14e8caea3e1d6639e7
+    - name: Gold & Silver Hearts v1.2_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 5e3aab3301f706648b20462fa9de27f1
+    - name: Gold & Silver Hearts v1.2_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 07ef8628620afda4e9ea3fed856d22e4
+    - name: Gold & Silver Hearts v1.2_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: eaff131590b0bcd40b111b18403ef6b5
+    - name: Gold & Silver Hearts v1.2_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b8ff01bc1d4ff4540af2b79ec5195c01
+    - name: Gold & Silver Hearts v1.2_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 6905867705b80f34cb077e92ee817e41
+    - name: Gold & Silver Hearts v1.2_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0181fc546913e4542b6d67956b12baf8
+    - name: Gold & Silver Hearts v1.2_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: dcfea66096a6a8e4fa113bdbdda4c0ce
+    - name: Gold & Silver Hearts v1.2_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 648cc5281e072964ca171f11a77d4ff0
+    - name: Gold & Silver Hearts v1.2_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 40c45e7f00637064b9fb2913f06f5c15
+    - name: Gold & Silver Hearts v1.2_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: af3ff3b22d66a4d4d9f6b3bffe42dc66
+    - name: Gold & Silver Hearts v1.2_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7506b53893a675f439558ce22c9c1a15
+    - name: Gold & Silver Hearts v1.2_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 6207c65898943614995ddce07ba17a7d
+    - name: Gold & Silver Hearts v1.2_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7512835413b27c744a0c6eb62a13cbe4
+    - name: Gold & Silver Hearts v1.2_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f23107a69db8d6641b4b44be04bfbd45
+    - name: Gold & Silver Hearts v1.2_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 06c2ca02caab356439c5e51b0c3c83c7
+    - name: Gold & Silver Hearts v1.2_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0c8d974cbf151ca44a3ef508f060ec00
+    - name: Gold & Silver Hearts v1.2_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4369d516d581bb94e8ef88f913a984a5
+    - name: Gold & Silver Hearts v1.2_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: ef07e7918d0b37840af6b2de085cffb9
+    - name: Gold & Silver Hearts v1.2_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 3aca6b2b6f73e3c458a72d54d9de446e
+    - name: Gold & Silver Hearts v1.2_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a55cda78db0f3f944bcc62256cc14172
+    - name: Gold & Silver Hearts v1.2_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: ba2cc9af3f8a05143b86ad7e2f0dfbab
+    - name: Gold & Silver Hearts v1.2_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 255cda84c06afc848accfade75b65a33
+    - name: Gold & Silver Hearts v1.2_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0df60b5461dd5ff41835e9751d26d852
+    - name: Gold & Silver Hearts v1.2_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7e173f57f1ff2254b9e25ba93124e738
+    - name: Gold & Silver Hearts v1.2_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 991bd9eb71695ba408d9fc989e2ccd7d
+    - name: Gold & Silver Hearts v1.2_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: dcbe9670dff7b4d46a415a6d616afb59
+    - name: Gold & Silver Hearts v1.2_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 07892e694aec4c147b8fb4957064dd8c
+    - name: Gold & Silver Hearts v1.2_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8b4c676bc6fbed84f91537d406ab1c7b
+    - name: Gold & Silver Hearts v1.2_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 99b07731aee06cc47be5c9a27e4900df
+    - name: Gold & Silver Hearts v1.2_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: cd252f8c35b934c44b57991a03f24113
+    - name: Gold & Silver Hearts v1.2_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 864bdf1436376e941b3770eeb4650ee6
+    - name: Gold & Silver Hearts v1.2_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 03f034f6f47428f459c4985020dc5be7
+    - name: Gold & Silver Hearts v1.2_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: e7390e743dfd947468f5f68f05260acc
+    - name: Gold & Silver Hearts v1.2_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8f434bd510c27ee4a88e1d277bebdbfc
+    - name: Gold & Silver Hearts v1.2_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 54e7ae80885adee4fbd06646b08212db
+    - name: Gold & Silver Hearts v1.2_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 35eeae0bc7451e94080d18ce30646bc5
+    - name: Gold & Silver Hearts v1.2_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: da7c085421a137b479529e24a107990f
+    - name: Gold & Silver Hearts v1.2_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a7a854e34c3a01341a755250124c14c8
+    - name: Gold & Silver Hearts v1.2_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: cf99a5ef05e0b9140a519d304f5681bb
+    - name: Gold & Silver Hearts v1.2_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0f6d388231c8e464db21325f79b5d661
+    - name: Gold & Silver Hearts v1.2_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b6f888260affd254fa2f57127ee9504d
+    - name: Gold & Silver Hearts v1.2_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8312ca085ef3b4a4a8fae23fa131e854
+    - name: Gold & Silver Hearts v1.2_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 69b524a3defd7e04ab298b6d3fcae716
+    - name: Gold & Silver Hearts v1.2_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 919477da4c3dc9e4a8ebe534f97daf4f
+    - name: Gold & Silver Hearts v1.2_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: d5f5e1ae0e9d4ca47a177832389206f9
+    - name: Gold & Silver Hearts v1.2_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b9f13c258206640419a852efc4e0d0c2
+    - name: Gold & Silver Hearts v1.2_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: ce2bb1fd934ba6b4f9d000f4042c8ea4
+    - name: Gold & Silver Hearts v1.2_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 1a83c3658a580364ead3a43b3079a16e
+    - name: Gold & Silver Hearts v1.2_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 708a4b6d0988ec24a85a2b155b21090a
+    - name: Gold & Silver Hearts v1.2_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8d4c4f4795a448b419652bcd58232711
+    - name: Gold & Silver Hearts v1.2_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 70dfb9573f9d43b458a582bb30bb008f
+    - name: Gold & Silver Hearts v1.2_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 2b0cf102866cd7c45b3255cb28ebf217
+    - name: Gold & Silver Hearts v1.2_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 10cc2610921a05d48bf3c9177fedfc0a
+    - name: Gold & Silver Hearts v1.2_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: d07884d98934da74fb10f27bf6ff5743
+    - name: Gold & Silver Hearts v1.2_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7f3c38307e5a2e948918a9e6a723e93e
+    - name: Gold & Silver Hearts v1.2_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a7cc921cc16a93245be0b55c339625f0
+    - name: Gold & Silver Hearts v1.2_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 09f98c17ffb9c2845a450bcaab9960f3
+    - name: Gold & Silver Hearts v1.2_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4bb0960a6563f8a4f9e5e583704cc2cf
+    - name: Gold & Silver Hearts v1.2_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a953c8aa2f03f6040addfad689fc8fbc
+    - name: Gold & Silver Hearts v1.2_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a4de41a00ac0b05409b6193c1c09e183
+    - name: Gold & Silver Hearts v1.2_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f549110982bdb184197b8638cf17c21a
+    - name: Gold & Silver Hearts v1.2_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: fa0550295a3c6a648a2e9743801effac
+    - name: Gold & Silver Hearts v1.2_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: bf3c68e8488ea0a4badfc8217d460491
+    - name: Gold & Silver Hearts v1.2_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4d670dc98ebb7704389104ecad55d49d
+    - name: Gold & Silver Hearts v1.2_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: ccae0d505839146458fa1c6fd03a0462
+    - name: Gold & Silver Hearts v1.2_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: de4c20d57d0611e4f841b19bb6039a6b
+    - name: Gold & Silver Hearts v1.2_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 05ea701d16f4b694d83af1c8b8693275
+    - name: Gold & Silver Hearts v1.2_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: fd9a6296f087c734e80b456f718182ad
+    - name: Gold & Silver Hearts v1.2_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8a7b68bb2ab5ac9438e127aad07492d9
+    - name: Gold & Silver Hearts v1.2_Frame_135
+      frameIndex: 135
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 6316a4aff7e4114409b6b9d2583bd161
+    - name: Gold & Silver Hearts v1.2_Frame_136
+      frameIndex: 136
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 71a78e931006c9b4dbf7204938c83604
+    - name: Gold & Silver Hearts v1.2_Frame_137
+      frameIndex: 137
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 9885438a9ddc5a445a20ed881b4b2b2a
+    - name: Gold & Silver Hearts v1.2_Frame_138
+      frameIndex: 138
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: d6ef2b6bc65a1eb4097e0c432dd8cba2
+    - name: Gold & Silver Hearts v1.2_Frame_139
+      frameIndex: 139
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 6abb775b372cb7b499f5aa42fee3489a
+    - name: Gold & Silver Hearts v1.2_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0703c271deb7b8149bbab10d8efe3185
+    - name: Gold & Silver Hearts v1.2_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8011ebff0d5d00d4c9d407bbb993e456
+    - name: Gold & Silver Hearts v1.2_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 406cfae04ab745d49ba569d8c900b7ce
+    - name: Gold & Silver Hearts v1.2_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0fe994f0294918045ae7d81cc1032137
+    - name: Gold & Silver Hearts v1.2_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 208fc61bbcc52dd408ea6f8e78b0df41
+    - name: Gold & Silver Hearts v1.2_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 192bdc75ae10681429d9a7a7a06f1ff3
+    - name: Gold & Silver Hearts v1.2_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: ee6ca5dcbd7dea2468445bdf625a28f6
+    - name: Gold & Silver Hearts v1.2_Frame_152
+      frameIndex: 152
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: c9d555fe160615b4d9fb598c1c9d9a50
+    - name: Gold & Silver Hearts v1.2_Frame_158
+      frameIndex: 158
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: f6f1a59fced4a8a49a6dd8b361ed63c4
+    - name: Gold & Silver Hearts v1.2_Frame_159
+      frameIndex: 159
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7211d453bc8f8ff408141980c74fae50
+    - name: Gold & Silver Hearts v1.2_Frame_160
+      frameIndex: 160
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 9e9997335f8df044cb069a4b50323ca1
+    - name: Gold & Silver Hearts v1.2_Frame_161
+      frameIndex: 161
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 9d1baec653a8a90439b71fa5243d5e28
+    - name: Gold & Silver Hearts v1.2_Frame_162
+      frameIndex: 162
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: d45882afdcf4bb248a237f7edb53815c
+    - name: Gold & Silver Hearts v1.2_Frame_163
+      frameIndex: 163
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 63f09b7a6a0c4bf4cb5719a6ad6ea920
+    - name: Gold & Silver Hearts v1.2_Frame_169
+      frameIndex: 169
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 1ae5f071badf9dd4091eb647140ed10b
+    - name: Gold & Silver Hearts v1.2_Frame_170
+      frameIndex: 170
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: d34c04df2ecd07040afa341ecac0b335
+    - name: Gold & Silver Hearts v1.2_Frame_171
+      frameIndex: 171
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: c77b4122528975849a706641a519bf3d
+    - name: Gold & Silver Hearts v1.2_Frame_172
+      frameIndex: 172
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: fa11eabd697769f458983a047a623655
+    - name: Gold & Silver Hearts v1.2_Frame_178
+      frameIndex: 178
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4706d9b6ce29cfe479a98f7e90ccf85d
+    - name: Gold & Silver Hearts v1.2_Frame_179
+      frameIndex: 179
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b07df50ddc50fab4dbbb8f47c577d7a8
+    - name: Gold & Silver Hearts v1.2_Frame_180
+      frameIndex: 180
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 25da16c14626d764e933a32b526a72c0
+    - name: Gold & Silver Hearts v1.2_Frame_181
+      frameIndex: 181
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4e1e4dd03c4b0d54ea51012a42e8cfd2
+    - name: Gold & Silver Hearts v1.2_Frame_194
+      frameIndex: 194
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: ab2a3706429805d43b913852d4733ed3
+    - name: Gold & Silver Hearts v1.2_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 35
+        y: 71
+        width: 91
+        height: 18
+      spriteId: 5c0f5fb0a9ceb9e4aa0e7e2c49c36fe4
+    - name: Gold & Silver Hearts v1.2_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 35
+        y: 71
+        width: 95
+        height: 18
+      spriteId: aa248b088323a0c468c25d6ae002ec62
+    - name: Gold & Silver Hearts v1.2_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4344241c02c45524a90f285c5b5063d6
+    - name: Gold & Silver Hearts v1.2_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 41295204f73ff9948997cc4fee2e5a3c
+    - name: Gold & Silver Hearts v1.2_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 84d652b1c322b8945bdd7bb2b7ef83f0
+    - name: Gold & Silver Hearts v1.2_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8151625be69316948b655e43729836af
+    - name: Gold & Silver Hearts v1.2_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4fb3c913862462f4ba9c40e74d713d3e
+    - name: Gold & Silver Hearts v1.2_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4b5c1a9b771608d409f4d80837fe7351
+    - name: Gold & Silver Hearts v1.2_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 056c03a99d8b4ab49a1849c0e97cbb64
+    - name: Gold & Silver Hearts v1.2_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 330b89e3736b8cb408402febd3b7de88
+    - name: Gold & Silver Hearts v1.2_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: d123df3723745eb46bbffb56be6850d3
+    - name: Gold & Silver Hearts v1.2_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: deaf142625bf0204f95c198464f37d24
+    - name: Gold & Silver Hearts v1.2_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 13dfc1f4574deae4288bb6548dd2ceca
+    - name: Gold & Silver Hearts v1.2_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: efc7ef1ee78c97e41bacbb942c574be2
+    - name: Gold & Silver Hearts v1.2_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 40c3f70100337674db67cc96f15fa980
+    - name: Gold & Silver Hearts v1.2_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 56cd4f9cdbd7da645a190d7defcd750f
+    - name: Gold & Silver Hearts v1.2_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 5be3ca44dc384dd46807317da6d3cb87
+    - name: Gold & Silver Hearts v1.2_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 26eada48d84fe634f82e5e37654f93a8
+    - name: Gold & Silver Hearts v1.2_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 41eb007ff38420e40b9f49c3a0c12c3c
+    - name: Gold & Silver Hearts v1.2_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 493bac11a0770a447b89264f8b21619e
+    - name: Gold & Silver Hearts v1.2_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: ee517aa6fcde85144bf916f06f177ccd
+    - name: Gold & Silver Hearts v1.2_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: fc77d69c863fe9943a9c657605717432
+    - name: Gold & Silver Hearts v1.2_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 068bd48bfeca37d418dbc7b22e9f5b23
+    - name: Gold & Silver Hearts v1.2_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 1568e37564ebcfd47b372dfd9e492aa8
+    - name: Gold & Silver Hearts v1.2_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 416f7d373b043924d87dc5af520ad3cd
+    - name: Gold & Silver Hearts v1.2_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 78bd2584ad7746245b3fc74698fdc899
+    - name: Gold & Silver Hearts v1.2_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 81b38ace6c203d14085519f473e37495
+    - name: Gold & Silver Hearts v1.2_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 7035451b330ec374c8630b3a0e430306
+    - name: Gold & Silver Hearts v1.2_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b87ba1f8c59b65642b44eac2a5578078
+    - name: Gold & Silver Hearts v1.2_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 55f8dc0d1dea4a740947edf0780790e1
+    - name: Gold & Silver Hearts v1.2_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 1d40342679b6c634d8879d209ffa3254
+    - name: Gold & Silver Hearts v1.2_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 128a1c683a5aae041ab747dab5f3d395
+    - name: Gold & Silver Hearts v1.2_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: c4d3699087f6e064285503eaab99a5e3
+    - name: Gold & Silver Hearts v1.2_Frame_153
+      frameIndex: 153
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8046c381f667e244997e2b6f0cd1dc83
+    - name: Gold & Silver Hearts v1.2_Frame_154
+      frameIndex: 154
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 25a08087a0e36d24595b31746d4a6f9f
+    - name: Gold & Silver Hearts v1.2_Frame_155
+      frameIndex: 155
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 4e8e6754221612a47972c5c27fa8c79e
+    - name: Gold & Silver Hearts v1.2_Frame_156
+      frameIndex: 156
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: b296d298cb31de749ac81c77362c04bb
+    - name: Gold & Silver Hearts v1.2_Frame_157
+      frameIndex: 157
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 409bc394b66755c448c3c900187a86d9
+    - name: Gold & Silver Hearts v1.2_Frame_164
+      frameIndex: 164
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 68a4ab89b6908264aad87fe7159389e0
+    - name: Gold & Silver Hearts v1.2_Frame_165
+      frameIndex: 165
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: e8b38634fbf05214cad45dca3501a420
+    - name: Gold & Silver Hearts v1.2_Frame_166
+      frameIndex: 166
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: cd9c8a54493f16d4b805f78db48b9374
+    - name: Gold & Silver Hearts v1.2_Frame_167
+      frameIndex: 167
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 78337562925962b4ab2709223f61832b
+    - name: Gold & Silver Hearts v1.2_Frame_168
+      frameIndex: 168
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a9810a1c4920ec94b905fb4a285f24e2
+    - name: Gold & Silver Hearts v1.2_Frame_173
+      frameIndex: 173
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 9a2ce8eef8c1923478f455e2fb9c4ddb
+    - name: Gold & Silver Hearts v1.2_Frame_174
+      frameIndex: 174
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: a9bbdb587e2613644be1744eb005ca75
+    - name: Gold & Silver Hearts v1.2_Frame_175
+      frameIndex: 175
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 73f9503b934977a4ba6f7b2be63e6bb9
+    - name: Gold & Silver Hearts v1.2_Frame_176
+      frameIndex: 176
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 5327c4d027b463548b680cfe00fc5a67
+    - name: Gold & Silver Hearts v1.2_Frame_177
+      frameIndex: 177
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 331f47f65149ae34d89012580ba45598
+    - name: Gold & Silver Hearts v1.2_Frame_182
+      frameIndex: 182
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 651da515d6de7b34fbe99432e65cba01
+    - name: Gold & Silver Hearts v1.2_Frame_183
+      frameIndex: 183
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 50fc6728c5afd034cb6a9b78fff8098e
+    - name: Gold & Silver Hearts v1.2_Frame_184
+      frameIndex: 184
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: e0bb23ca1c50c7c49afb9a8315000453
+    - name: Gold & Silver Hearts v1.2_Frame_185
+      frameIndex: 185
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 512bac62ede26994881c3d3b627c2a22
+    - name: Gold & Silver Hearts v1.2_Frame_186
+      frameIndex: 186
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: eb7d0d4961c721a459ae2a28f1b04dc5
+    - name: Gold & Silver Hearts v1.2_Frame_187
+      frameIndex: 187
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 0b2e516062ebda54d9c8e4d55b5d5104
+    - name: Gold & Silver Hearts v1.2_Frame_188
+      frameIndex: 188
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 8cc993f6ee6331f4ead125446abab0c5
+    - name: Gold & Silver Hearts v1.2_Frame_189
+      frameIndex: 189
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 51f50d4ec9a4297448ff04c561f9493a
+    - name: Gold & Silver Hearts v1.2_Frame_190
+      frameIndex: 190
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 64819c0b804917943952b566c4863dee
+    - name: Gold & Silver Hearts v1.2_Frame_191
+      frameIndex: 191
+      cellRect:
+        x: 35
+        y: 71
+        width: 90
+        height: 18
+      spriteId: 259ba56e378520d4885a67b572015b25
+    - name: Gold & Silver Hearts v1.2_Frame_195
+      frameIndex: 195
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: dcc36b02412f87c4e9c082a086c4d3f3
+    - name: Gold & Silver Hearts v1.2_Frame_196
+      frameIndex: 196
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 05e1b5cf5ab683148b799ffe39729863
+    - name: Gold & Silver Hearts v1.2_Frame_197
+      frameIndex: 197
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 31b863706ed9fb648b81e7572f12ba9e
+    - name: Gold & Silver Hearts v1.2_Frame_198
+      frameIndex: 198
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 070e5119dbb2a924a97a54e84f92dc79
+    - name: Gold & Silver Hearts v1.2_Frame_199
+      frameIndex: 199
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 9b44a7e2570f9304bba8f821d17fa700
+    - name: Gold & Silver Hearts v1.2_Frame_200
+      frameIndex: 200
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 5bed2629a485a0343885ed5380e3ca60
+    - name: Gold & Silver Hearts v1.2_Frame_201
+      frameIndex: 201
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: d02bb643e413dca47a1f7d94cd7c10f5
+    - name: Gold & Silver Hearts v1.2_Frame_202
+      frameIndex: 202
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 7eba9480b936c3f459fa8dc89b27f43c
+    - name: Gold & Silver Hearts v1.2_Frame_203
+      frameIndex: 203
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: a0544ce971523a54ca8685dbf0ea7d56
+    - name: Gold & Silver Hearts v1.2_Frame_204
+      frameIndex: 204
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: dc3f4462543c6f441a666598602e2e9c
+    - name: Gold & Silver Hearts v1.2_Frame_205
+      frameIndex: 205
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 9e3f209234e8a4349a8cd74aebd60023
+    - name: Gold & Silver Hearts v1.2_Frame_206
+      frameIndex: 206
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 92c77e0e53a055947adc41075bb3e41f
+    - name: Gold & Silver Hearts v1.2_Frame_207
+      frameIndex: 207
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 6e179544217b52847a4cf7fab1ba4da8
+    - name: Gold & Silver Hearts v1.2_Frame_208
+      frameIndex: 208
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 12872a6efc31bc74fbe1ef909da60bd0
+    - name: Gold & Silver Hearts v1.2_Frame_209
+      frameIndex: 209
+      cellRect:
+        x: 45
+        y: 73
+        width: 80
+        height: 13
+      spriteId: 3896b02777245a142ba35081a63609c1
+    - name: Gold & Silver Hearts v1.2_Frame_211
+      frameIndex: 211
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 53f2d0481f44099409e50ab030993610
+    - name: Gold & Silver Hearts v1.2_Frame_212
+      frameIndex: 212
+      cellRect:
+        x: 70
+        y: 72
+        width: 19
+        height: 17
+      spriteId: fd806ce95df79ed44957339bcd694342
+    - name: Gold & Silver Hearts v1.2_Frame_213
+      frameIndex: 213
+      cellRect:
+        x: 73
+        y: 72
+        width: 13
+        height: 18
+      spriteId: 7b311cc05a3ea4e4aa49b1caba44f5d8
+    - name: Gold & Silver Hearts v1.2_Frame_214
+      frameIndex: 214
+      cellRect:
+        x: 74
+        y: 72
+        width: 11
+        height: 16
+      spriteId: ff2ee832d6617c240b932eba708340f4
+    - name: Gold & Silver Hearts v1.2_Frame_215
+      frameIndex: 215
+      cellRect:
+        x: 75
+        y: 71
+        width: 9
+        height: 16
+      spriteId: 5985fd3352727384bbf4fcb3e509121d
+    - name: Gold & Silver Hearts v1.2_Frame_216
+      frameIndex: 216
+      cellRect:
+        x: 76
+        y: 71
+        width: 7
+        height: 16
+      spriteId: 65683df35fe28be449c94bb89eb9ab2d
+    - name: Gold & Silver Hearts v1.2_Frame_217
+      frameIndex: 217
+      cellRect:
+        x: 75
+        y: 71
+        width: 9
+        height: 16
+      spriteId: 0be98ab807ea5fb4c8d3d91f14f679bf
+    - name: Gold & Silver Hearts v1.2_Frame_218
+      frameIndex: 218
+      cellRect:
+        x: 74
+        y: 71
+        width: 11
+        height: 16
+      spriteId: 0e3e057993f469647ac2c4480e85c397
+    - name: Gold & Silver Hearts v1.2_Frame_219
+      frameIndex: 219
+      cellRect:
+        x: 73
+        y: 72
+        width: 13
+        height: 18
+      spriteId: b2671e4ec5f95b54a93336af3a8bcea9
+    - name: Gold & Silver Hearts v1.2_Frame_220
+      frameIndex: 220
+      cellRect:
+        x: 70
+        y: 72
+        width: 19
+        height: 17
+      spriteId: 6c2c8d25fb5a29a479da0c33a3cd6579
+    - name: Gold & Silver Hearts v1.2_Frame_222
+      frameIndex: 222
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 868ad77f2c62c744fb24d815de5e56cd
+    - name: Gold & Silver Hearts v1.2_Frame_223
+      frameIndex: 223
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: e0752944bd6633a46af830fa282e36ac
+    - name: Gold & Silver Hearts v1.2_Frame_224
+      frameIndex: 224
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 42057bfdab500e049a7e21bb0a222b0a
+    - name: Gold & Silver Hearts v1.2_Frame_225
+      frameIndex: 225
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: c0a8c9f4f75c0824884918798ae53c4e
+    - name: Gold & Silver Hearts v1.2_Frame_226
+      frameIndex: 226
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 14b63ea2e3b215d44b5ef0f709b99200
+    - name: Gold & Silver Hearts v1.2_Frame_227
+      frameIndex: 227
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 8a29ef839298d684a88831991488c1bc
+    - name: Gold & Silver Hearts v1.2_Frame_228
+      frameIndex: 228
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 974478afd1b9ba341aafcba83bac786e
+    - name: Gold & Silver Hearts v1.2_Frame_229
+      frameIndex: 229
+      cellRect:
+        x: 69
+        y: 71
+        width: 21
+        height: 18
+      spriteId: 0bd1bf7f3983dfc48957bd4c23f08fcd
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 160, y: 160}

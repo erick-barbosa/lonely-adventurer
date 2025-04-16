@@ -1,0 +1,2020 @@
+fileFormatVersion: 2
+guid: 13bf74c3477781b48918c5ecfd9ebd7b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638797940543024817
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: hobbit_Frame_0
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 18
+      height: 17
+    spriteID: 30acce7c7394efe408520ebdd2dea6ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
+  - name: hobbit_Frame_1
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 132
+      width: 19
+      height: 16
+    spriteID: 4193526a37fa1a94fbe5ef13636927de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 132}
+  - name: hobbit_Frame_2
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 132
+      width: 19
+      height: 16
+    spriteID: 51c188f1765552443934b223eb1c6151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 132}
+  - name: hobbit_Frame_3
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 157
+      width: 18
+      height: 16
+    spriteID: 938f9ee620edcd044b7b84d99d08e373
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 157}
+  - name: hobbit_Frame_4
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 205
+      width: 15
+      height: 17
+    spriteID: 593b0596cdc6b0b4fba60595ecdbae9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 205}
+  - name: hobbit_Frame_5
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 57
+      width: 17
+      height: 16
+    spriteID: 44f83a6db8d7b5f49a0814880792b3d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 57}
+  - name: hobbit_Frame_6
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 181
+      width: 18
+      height: 16
+    spriteID: 2603fd4bfc63642458aadea59d54ac0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 181}
+  - name: hobbit_Frame_7
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 31
+      height: 16
+    spriteID: fe73a3b35d9d24b43ae9c1e16e8faf76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 4}
+  - name: hobbit_Frame_8
+    originalName: 
+    pivot: {x: 0.30434784, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 31
+      width: 23
+      height: 17
+    spriteID: 36f7637bc1d837348ad768d1af416d38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 31}
+  - name: hobbit_Frame_9
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 132
+      width: 18
+      height: 17
+    spriteID: db7a39adad070204d9bf6c55cfabbff9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 132}
+  - name: hobbit_Frame_10
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 107
+      width: 19
+      height: 17
+    spriteID: e8a279eee49130c448b5cdb460a15dda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 107}
+  - name: hobbit_Frame_11
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 107
+      width: 19
+      height: 17
+    spriteID: f938ae20b1f573f4daf3f596b4748326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 107}
+  - name: hobbit_Frame_12
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 181
+      width: 18
+      height: 16
+    spriteID: 5e905424449ce854fbb5e3d024edac74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 181}
+  - name: hobbit_Frame_13
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 181
+      width: 18
+      height: 15
+    spriteID: 2498f74649846df4aad37e7ffd7293bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 181}
+  - name: hobbit_Frame_14
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 181
+      width: 18
+      height: 16
+    spriteID: b7c05142e5edfa441aff1a9ebe9d826f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 181}
+  - name: hobbit_Frame_15
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 132
+      width: 19
+      height: 16
+    spriteID: 2581b0403cc69cb4cb104e543cfac45d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 132}
+  - name: hobbit_Frame_16
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 107
+      width: 19
+      height: 17
+    spriteID: 91bbf261362a7114fa141c99903b1baa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 107}
+  - name: hobbit_Frame_17
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 107
+      width: 19
+      height: 17
+    spriteID: dc150f9b1a80ae54ea315417f2d56bfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 107}
+  - name: hobbit_Frame_18
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 181
+      width: 18
+      height: 16
+    spriteID: 8f23b91973058f24faae40c88bb7e446
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 181}
+  - name: hobbit_Frame_19
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 107
+      width: 20
+      height: 16
+    spriteID: 3a7e89a6977871d4fa4b3df295c253d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 107}
+  - name: hobbit_Frame_20
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 22
+      height: 15
+    spriteID: e55b064b449883e47862578e86c60399
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: hobbit_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 84
+      width: 22
+      height: 15
+    spriteID: fd44c73109ab67c4fbdb2dbdeae23f14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 84}
+  - name: hobbit_Frame_22
+    originalName: 
+    pivot: {x: 0.5217391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 57
+      width: 23
+      height: 16
+    spriteID: 6b220c0b2eba1224296f47e451f6f4d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 57}
+  - name: hobbit_Frame_23
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 132
+      width: 18
+      height: 17
+    spriteID: 9ee2b75152bd05a48b6a126f8eac66b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 132}
+  - name: hobbit_Frame_24
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 132
+      width: 19
+      height: 16
+    spriteID: 8d72a4b6c8323674583c740a955ebd1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 132}
+  - name: hobbit_Frame_25
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 19
+      height: 16
+    spriteID: b7bd8ab53c266114bb84fa847653c7ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 157}
+  - name: hobbit_Frame_26
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 181
+      width: 18
+      height: 16
+    spriteID: 47b2cba429353a948be459ecc3eff472
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 181}
+  - name: hobbit_Frame_27
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 57
+      width: 20
+      height: 17
+    spriteID: 8d28b2e1582c78a4ab75ce0e7cbbf2e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 57}
+  - name: hobbit_Frame_28
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 57
+      width: 20
+      height: 17
+    spriteID: f47b57a417ba2d44b9b654f2d696f725
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 57}
+  - name: hobbit_Frame_29
+    originalName: 
+    pivot: {x: 0.5416667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 31
+      width: 24
+      height: 18
+    spriteID: 6cbbb52e1dcec1045b03b27b23cc8089
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 31}
+  - name: hobbit_Frame_30
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.11764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 4
+      width: 26
+      height: 17
+    spriteID: d8f0ef788a907794a82c87c387186695
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 4}
+  - name: hobbit_Frame_31
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.05263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 4
+      width: 27
+      height: 19
+    spriteID: 00596ae268c8aa045bca2d74a4cee742
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 4}
+  - name: hobbit_Frame_32
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 4
+      width: 27
+      height: 18
+    spriteID: 0ee04e2467d8d124ebaa47ed41146396
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 4}
+  - name: hobbit_Frame_33
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 4
+      width: 27
+      height: 18
+    spriteID: 23940d90691004e4598cbd0d3e841d3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 4}
+  - name: hobbit_Frame_34
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 31
+      width: 28
+      height: 14
+    spriteID: 47d4c489fce0a1f49a32c713f53d6624
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 31}
+  - name: hobbit_Frame_35
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 31
+      width: 28
+      height: 14
+    spriteID: 162f78f65db4fd140965cbe88e60ef91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 31}
+  - name: hobbit_Frame_36
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 31
+      width: 28
+      height: 14
+    spriteID: c7185a1d97516fc459dd9dd54e4324aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 31}
+  - name: hobbit_Frame_37
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 31
+      width: 27
+      height: 14
+    spriteID: ac770c45d38769f4abde1582f995f76f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 31}
+  - name: hobbit_Frame_38
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 31
+      width: 27
+      height: 14
+    spriteID: 3cafeffa2454e044d9f8ec560f6bd8fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 31}
+  - name: hobbit_Frame_39
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 57
+      width: 20
+      height: 17
+    spriteID: fd8ad04490e6c9e4eb3a18a1aa56f8d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 57}
+  - name: hobbit_Frame_40
+    originalName: 
+    pivot: {x: 0.61904764, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 57
+      width: 21
+      height: 16
+    spriteID: b4f3074db91a2704ba974ea43b85d3ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 57}
+  - name: hobbit_Frame_41
+    originalName: 
+    pivot: {x: 0.61904764, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 57
+      width: 21
+      height: 16
+    spriteID: e4590f7321288c54481be15fe43e7a78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 57}
+  - name: hobbit_Frame_42
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 107
+      width: 20
+      height: 16
+    spriteID: 53361f7435b7ada4e848366ad46740ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 107}
+  - name: hobbit_Frame_43
+    originalName: 
+    pivot: {x: 0.6315789, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 157
+      width: 19
+      height: 16
+    spriteID: 07c9bcbeb12789147a1c43525b961f53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 157}
+  - name: hobbit_Frame_44
+    originalName: 
+    pivot: {x: 0.55, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 157
+      width: 20
+      height: 15
+    spriteID: 7125821bf0e0e344ba5c65cca3e5efc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 157}
+  - name: hobbit_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 57
+      width: 22
+      height: 16
+    spriteID: b993e34a4c1acbd498cb003126f7482a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 57}
+  - name: hobbit_Frame_46
+    originalName: 
+    pivot: {x: 0.42857146, y: 0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 4
+      width: 28
+      height: 18
+    spriteID: 3c7f5723a4b5bb044bbed16a55cba681
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 4}
+  - name: hobbit_Frame_47
+    originalName: 
+    pivot: {x: 0.39285716, y: 0.15789475}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 28
+      height: 19
+    spriteID: c31971375d23ff748877204ff890470f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: hobbit_Frame_48
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 84
+      width: 21
+      height: 15
+    spriteID: 13ed0be3b7944ca4e9f7a675bc1a7b6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 84}
+  - name: hobbit_Frame_49
+    originalName: 
+    pivot: {x: 0.55, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 157
+      width: 20
+      height: 15
+    spriteID: bced6d68a1c1d844eaa9de71c2fe5d1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 157}
+  - name: hobbit_Frame_50
+    originalName: 
+    pivot: {x: 0.55, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 157
+      width: 20
+      height: 15
+    spriteID: 363e75a27af10dc4fa21422c862f2636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 157}
+  - name: hobbit_Frame_51
+    originalName: 
+    pivot: {x: 0.6315789, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 157
+      width: 19
+      height: 16
+    spriteID: 769829fbb0049984895cd7856b52d01d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 157}
+  - name: hobbit_Frame_52
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 132
+      width: 18
+      height: 17
+    spriteID: 396ac3e2400b17749b9baccdf0e07e6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 132}
+  - name: hobbit_Frame_53
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 132
+      width: 18
+      height: 17
+    spriteID: 9677fac9ead02ae4fb8ef967e8c044c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 132}
+  - name: hobbit_Frame_54
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 107
+      width: 19
+      height: 17
+    spriteID: fdd0059c9f7c52d40a2ecbdeb33fa39b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 107}
+  - name: hobbit_Frame_55
+    originalName: 
+    pivot: {x: 0.6315789, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 107
+      width: 19
+      height: 17
+    spriteID: d2d5bcf755a2e4f4e98b6a65b8179aa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 107}
+  - name: hobbit_Frame_56
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 181
+      width: 18
+      height: 16
+    spriteID: d0a1bea0be9fa6743a7a8fb2e58903f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 181}
+  - name: hobbit_Frame_57
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 157
+      width: 19
+      height: 16
+    spriteID: ded301b924c6e2a4d827b2856ff94bad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 157}
+  - name: hobbit_Frame_58
+    originalName: 
+    pivot: {x: 0.7, y: -0.3571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 181
+      width: 20
+      height: 14
+    spriteID: 024e44e4fb3f4734fb2090dba6c625d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 181}
+  - name: hobbit_Frame_59
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 107
+      width: 19
+      height: 17
+    spriteID: c58da0f11d6d1eb4cb19f710b1ee1fc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 107}
+  - name: hobbit_Frame_60
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 57
+      width: 20
+      height: 19
+    spriteID: 8fd17f99a3ea2d4439fcfeb647c4992a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 57}
+  - name: hobbit_Frame_61
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 157
+      width: 21
+      height: 14
+    spriteID: 0768be924ad76b544bca8f6d7485bea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 157}
+  - name: hobbit_Frame_62
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 84
+      width: 21
+      height: 11
+    spriteID: a2cbd0e1a4668e64a9fd58b2dd8d4751
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 84}
+  - name: hobbit_Frame_63
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 181
+      width: 22
+      height: 13
+    spriteID: 1fcbb1edd507a974883b60fcc11ed261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 181}
+  - name: hobbit_Frame_64
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 84
+      width: 18
+      height: 14
+    spriteID: ad5e483559b9e8c47a6f3408e6d8fa09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 84}
+  - name: hobbit_Frame_65
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 84
+      width: 18
+      height: 15
+    spriteID: 757331f26f441144ba76820afb60a6eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 84}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -567180950
+    name: hobbit
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: hobbit_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 17
+      spriteId: 30acce7c7394efe408520ebdd2dea6ce
+    - name: hobbit_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 19
+        y: 0
+        width: 19
+        height: 16
+      spriteId: 4193526a37fa1a94fbe5ef13636927de
+    - name: hobbit_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 19
+        y: 0
+        width: 19
+        height: 16
+      spriteId: 51c188f1765552443934b223eb1c6151
+    - name: hobbit_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 16
+      spriteId: 938f9ee620edcd044b7b84d99d08e373
+    - name: hobbit_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 25
+        y: 0
+        width: 15
+        height: 17
+      spriteId: 593b0596cdc6b0b4fba60595ecdbae9d
+    - name: hobbit_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 23
+        y: 0
+        width: 17
+        height: 16
+      spriteId: 44f83a6db8d7b5f49a0814880792b3d2
+    - name: hobbit_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 22
+        y: 0
+        width: 18
+        height: 16
+      spriteId: 2603fd4bfc63642458aadea59d54ac0c
+    - name: hobbit_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 19
+        y: 2
+        width: 31
+        height: 16
+      spriteId: fe73a3b35d9d24b43ae9c1e16e8faf76
+    - name: hobbit_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 25
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 36f7637bc1d837348ad768d1af416d38
+    - name: hobbit_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 17
+      spriteId: db7a39adad070204d9bf6c55cfabbff9
+    - name: hobbit_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 19
+        y: 1
+        width: 19
+        height: 17
+      spriteId: e8a279eee49130c448b5cdb460a15dda
+    - name: hobbit_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 19
+        y: 1
+        width: 19
+        height: 17
+      spriteId: f938ae20b1f573f4daf3f596b4748326
+    - name: hobbit_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 16
+      spriteId: 5e905424449ce854fbb5e3d024edac74
+    - name: hobbit_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 15
+      spriteId: 2498f74649846df4aad37e7ffd7293bb
+    - name: hobbit_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 16
+      spriteId: b7c05142e5edfa441aff1a9ebe9d826f
+    - name: hobbit_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 19
+        y: 1
+        width: 19
+        height: 16
+      spriteId: 2581b0403cc69cb4cb104e543cfac45d
+    - name: hobbit_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 19
+        y: 1
+        width: 19
+        height: 17
+      spriteId: 91bbf261362a7114fa141c99903b1baa
+    - name: hobbit_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 19
+        y: 0
+        width: 19
+        height: 17
+      spriteId: dc150f9b1a80ae54ea315417f2d56bfd
+    - name: hobbit_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 16
+      spriteId: 8f23b91973058f24faae40c88bb7e446
+    - name: hobbit_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 20
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 3a7e89a6977871d4fa4b3df295c253d5
+    - name: hobbit_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 20
+        y: 0
+        width: 22
+        height: 15
+      spriteId: e55b064b449883e47862578e86c60399
+    - name: hobbit_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 21
+        y: 0
+        width: 22
+        height: 15
+      spriteId: fd44c73109ab67c4fbdb2dbdeae23f14
+    - name: hobbit_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 20
+        y: 0
+        width: 23
+        height: 16
+      spriteId: 6b220c0b2eba1224296f47e451f6f4d0
+    - name: hobbit_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 17
+      spriteId: 9ee2b75152bd05a48b6a126f8eac66b3
+    - name: hobbit_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 19
+        y: 0
+        width: 19
+        height: 16
+      spriteId: 8d72a4b6c8323674583c740a955ebd1d
+    - name: hobbit_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 19
+        y: 0
+        width: 19
+        height: 16
+      spriteId: b7bd8ab53c266114bb84fa847653c7ee
+    - name: hobbit_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 16
+      spriteId: 47b2cba429353a948be459ecc3eff472
+    - name: hobbit_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 20
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 8d28b2e1582c78a4ab75ce0e7cbbf2e1
+    - name: hobbit_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 20
+        y: 0
+        width: 20
+        height: 17
+      spriteId: f47b57a417ba2d44b9b654f2d696f725
+    - name: hobbit_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 19
+        y: 0
+        width: 24
+        height: 18
+      spriteId: 6cbbb52e1dcec1045b03b27b23cc8089
+    - name: hobbit_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 17
+        y: 2
+        width: 26
+        height: 17
+      spriteId: d8f0ef788a907794a82c87c387186695
+    - name: hobbit_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 17
+        y: 1
+        width: 27
+        height: 19
+      spriteId: 00596ae268c8aa045bca2d74a4cee742
+    - name: hobbit_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 17
+        y: 0
+        width: 27
+        height: 18
+      spriteId: 0ee04e2467d8d124ebaa47ed41146396
+    - name: hobbit_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 17
+        y: -1
+        width: 27
+        height: 18
+      spriteId: 23940d90691004e4598cbd0d3e841d3f
+    - name: hobbit_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 16
+        y: -1
+        width: 28
+        height: 14
+      spriteId: 47d4c489fce0a1f49a32c713f53d6624
+    - name: hobbit_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 16
+        y: -1
+        width: 28
+        height: 14
+      spriteId: 162f78f65db4fd140965cbe88e60ef91
+    - name: hobbit_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 16
+        y: -1
+        width: 28
+        height: 14
+      spriteId: c7185a1d97516fc459dd9dd54e4324aa
+    - name: hobbit_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 17
+        y: -1
+        width: 27
+        height: 14
+      spriteId: ac770c45d38769f4abde1582f995f76f
+    - name: hobbit_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 17
+        y: -1
+        width: 27
+        height: 14
+      spriteId: 3cafeffa2454e044d9f8ec560f6bd8fa
+    - name: hobbit_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 20
+        y: 0
+        width: 20
+        height: 17
+      spriteId: fd8ad04490e6c9e4eb3a18a1aa56f8d4
+    - name: hobbit_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 19
+        y: 0
+        width: 21
+        height: 16
+      spriteId: b4f3074db91a2704ba974ea43b85d3ed
+    - name: hobbit_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 19
+        y: 0
+        width: 21
+        height: 16
+      spriteId: e4590f7321288c54481be15fe43e7a78
+    - name: hobbit_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 20
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 53361f7435b7ada4e848366ad46740ff
+    - name: hobbit_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 20
+        y: 0
+        width: 19
+        height: 16
+      spriteId: 07c9bcbeb12789147a1c43525b961f53
+    - name: hobbit_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 21
+        y: 0
+        width: 20
+        height: 15
+      spriteId: 7125821bf0e0e344ba5c65cca3e5efc3
+    - name: hobbit_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 21
+        y: 0
+        width: 22
+        height: 16
+      spriteId: b993e34a4c1acbd498cb003126f7482a
+    - name: hobbit_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 20
+        y: -1
+        width: 28
+        height: 18
+      spriteId: 3c7f5723a4b5bb044bbed16a55cba681
+    - name: hobbit_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 21
+        y: -3
+        width: 28
+        height: 19
+      spriteId: c31971375d23ff748877204ff890470f
+    - name: hobbit_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 20
+        y: 0
+        width: 21
+        height: 15
+      spriteId: 13ed0be3b7944ca4e9f7a675bc1a7b6e
+    - name: hobbit_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 21
+        y: 0
+        width: 20
+        height: 15
+      spriteId: bced6d68a1c1d844eaa9de71c2fe5d1e
+    - name: hobbit_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 21
+        y: 0
+        width: 20
+        height: 15
+      spriteId: 363e75a27af10dc4fa21422c862f2636
+    - name: hobbit_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 20
+        y: 0
+        width: 19
+        height: 16
+      spriteId: 769829fbb0049984895cd7856b52d01d
+    - name: hobbit_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 17
+      spriteId: 396ac3e2400b17749b9baccdf0e07e6b
+    - name: hobbit_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 17
+      spriteId: 9677fac9ead02ae4fb8ef967e8c044c6
+    - name: hobbit_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 19
+        y: 0
+        width: 19
+        height: 17
+      spriteId: fdd0059c9f7c52d40a2ecbdeb33fa39b
+    - name: hobbit_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 20
+        y: 0
+        width: 19
+        height: 17
+      spriteId: d2d5bcf755a2e4f4e98b6a65b8179aa3
+    - name: hobbit_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 16
+      spriteId: d0a1bea0be9fa6743a7a8fb2e58903f3
+    - name: hobbit_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 19
+        y: 2
+        width: 19
+        height: 16
+      spriteId: ded301b924c6e2a4d827b2856ff94bad
+    - name: hobbit_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 18
+        y: 5
+        width: 20
+        height: 14
+      spriteId: 024e44e4fb3f4734fb2090dba6c625d2
+    - name: hobbit_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 19
+        y: 4
+        width: 19
+        height: 17
+      spriteId: c58da0f11d6d1eb4cb19f710b1ee1fc5
+    - name: hobbit_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 19
+        y: 0
+        width: 20
+        height: 19
+      spriteId: 8fd17f99a3ea2d4439fcfeb647c4992a
+    - name: hobbit_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 20
+        y: 0
+        width: 21
+        height: 14
+      spriteId: 0768be924ad76b544bca8f6d7485bea7
+    - name: hobbit_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 20
+        y: 0
+        width: 21
+        height: 11
+      spriteId: a2cbd0e1a4668e64a9fd58b2dd8d4751
+    - name: hobbit_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 20
+        y: 0
+        width: 22
+        height: 13
+      spriteId: 1fcbb1edd507a974883b60fcc11ed261
+    - name: hobbit_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 14
+      spriteId: ad5e483559b9e8c47a6f3408e6d8fa09
+    - name: hobbit_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 20
+        y: 0
+        width: 18
+        height: 15
+      spriteId: 757331f26f441144ba76820afb60a6eb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 39}
